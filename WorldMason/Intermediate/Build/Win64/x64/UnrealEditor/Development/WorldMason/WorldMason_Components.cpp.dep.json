@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\source\\worldmason\\private\\worldmason_components.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\work\\circleoforion\\ue\\intermediate\\build\\win64\\x64\\circleoforioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldmason\\definitions.worldmason.h",
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\source\\worldmason\\public\\worldmason_components.h",
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\intermediate\\build\\win64\\unrealeditor\\inc\\worldmason\\uht\\worldmason_components.generated.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\hierarchicalinstancedstaticmeshcomponent.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\instancedstaticmeshcomponent.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstancemanager.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstanceelementid.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\instancedstaticmeshdelegates.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sminstanceelementid.generated.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sminstancemanager.generated.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\instancedatasceneproxy.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\rendering\\renderingspatialhash.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\instancedstaticmesh\\isminstancedatamanager.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\instancedstaticmesh\\isminstancedatasceneproxy.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\public\\instancedstaticmesh\\instanceattributetracker.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\instancedstaticmeshcomponent.generated.h",
+            "d:\\games\\epicgames\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hierarchicalinstancedstaticmeshcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

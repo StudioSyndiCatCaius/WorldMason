@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WorldMason",
+	"Description": "A collections of functions and systems for building levels faster.",
+	"Category": "Other",
+	"CreatedBy": "Studio SyndiCat",
+	"CreatedByURL": "https://studiosyndicat.com/",
+	"DocsURL": "https://docs.google.com/document/d/1WMiur9GwXUvaoYRXZl_jV45AzRJr-Su2CKGt9Hn_26g/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/337a555f94eb439680b5ac3960bbcf47",
+	"SupportURL": "https://t.co/ScipnVDkh7",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "WorldMason",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryProcessing",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	]
+}

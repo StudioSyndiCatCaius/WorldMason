@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\intermediate\\build\\win64\\unrealeditor\\inc\\worldmason\\uht\\worldmason_components.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\work\\circleoforion\\ue\\intermediate\\build\\win64\\x64\\circleoforioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\worldmason\\definitions.worldmason.h",
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\source\\worldmason\\public\\worldmason_components.h",
+            "d:\\projects\\work\\circleoforion\\ue\\plugins\\worldmason\\intermediate\\build\\win64\\unrealeditor\\inc\\worldmason\\uht\\worldmason_components.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
